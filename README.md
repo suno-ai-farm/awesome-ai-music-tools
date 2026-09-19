@@ -141,6 +141,7 @@ If you want a single workflow that handles prompt generation, lyrics, song analy
 - [suno-prompt-engineering-guide](https://github.com/suno-ai-farm/suno-prompt-engineering-guide) — Master Suno prompt engineering
 - [awesome-suno-lyrics](https://github.com/suno-ai-farm/awesome-suno-lyrics) — Lyric templates for Suno
 - [awesome-suno-prompts](https://github.com/naqashmunir21/awesome-suno-prompts) — 1000+ curated Suno prompts
+- [suno-style-recipes](https://github.com/samuelgrupolimex-prog/suno-style-recipes) — 564 documented Suno styles with BPM, weirdness and style influence, plus the style prompt. CC0.
 
 ---
 
