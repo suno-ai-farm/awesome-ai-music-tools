@@ -80,6 +80,7 @@
 | **Spleeter (Deezer)** | Open source | Free | Fast stem separation | [github.com/deezer/spleeter](https://github.com/deezer/spleeter) |
 | **LALAL.AI** | Web tool | Free trial | Online stem separation | [lalal.ai](https://lalal.ai) |
 | **Moises** | Mobile/web | Free tier | Mobile stem separation, practice tracks | [moises.ai](https://moises.ai) |
+| **Saturalabs** | Web tool | Free utilities; AI downloads use credits | Separate one described voice, instrument, or sound effect from audio/video; get target and remaining audio | [saturalabs.com](https://www.saturalabs.com/) |
 | **eMastered** | Web tool | Paid | AI mastering | [emastered.com](https://emastered.com) |
 | **LANDR** | Web tool | Paid | Professional AI mastering | [landr.com](https://landr.com) |
 
