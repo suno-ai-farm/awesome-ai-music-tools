@@ -93,6 +93,7 @@
 | **ElevenLabs** | API/web | Free tier | Voice cloning, text-to-speech | [elevenlabs.io](https://elevenlabs.io) |
 | **RVC (Retrieval-based Voice Conversion)** | Open source | Free | Voice conversion models | [github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) |
 | **Kits AI** | Web tool | Free tier | AI voice models for music | [kits.ai](https://kits.ai) |
+| [AI Group Call](https://aigroupcall.app) | iOS + Android app | - | - | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. |
 
 ---
 
