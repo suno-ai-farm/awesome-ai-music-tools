@@ -80,6 +80,7 @@
 | **Spleeter (Deezer)** | Open source | Free | Fast stem separation | [github.com/deezer/spleeter](https://github.com/deezer/spleeter) |
 | **LALAL.AI** | Web tool | Free trial | Online stem separation | [lalal.ai](https://lalal.ai) |
 | **Moises** | Mobile/web | Free tier | Mobile stem separation, practice tracks | [moises.ai](https://moises.ai) |
+| **VocalSeparator** | Web tool | Free tier (5 jobs/day) | Vocal/stem separation, WAV export, loop and tempo/pitch practice | [vocalseparator.com](https://vocalseparator.com/) |
 | **eMastered** | Web tool | Paid | AI mastering | [emastered.com](https://emastered.com) |
 | **LANDR** | Web tool | Paid | Professional AI mastering | [landr.com](https://landr.com) |
 
