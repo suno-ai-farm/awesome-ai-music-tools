@@ -67,6 +67,7 @@
 |------|------|-------|----------|------|
 | **Song AI Farm Song DNA Analyzer** | Web tool | Yes | Full song breakdown — genre, structure, production, AI vs human | [songaifarm.com/song-analyzer](https://www.songaifarm.com/song-analyzer?utm_source=github&utm_medium=repo&utm_campaign=awesome-ai-music-tools) |
 | **Sonic Visualiser** | Desktop | Free | Detailed audio analysis, spectrograms | [sonicvisualiser.org](https://sonicvisualiser.org) |
+| **ReelSongFinder** | Web tool | Free tier | Identifying the song in Instagram Reels / TikTok / Shorts from a link or screen recording, even with voiceover | [reelsongfinder.com](https://reelsongfinder.com/song-recognition) |
 | **fma (Free Music Archive)** | Dataset | Free | Research, dataset analysis | [freemusicarchive.org](https://freemusicarchive.org) |
 
 ---
