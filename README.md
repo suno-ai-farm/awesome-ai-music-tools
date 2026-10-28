@@ -32,6 +32,7 @@
 | **AIVA** | AI composition | Free tier | Classical, orchestral, film scoring | [aiva.ai](https://aiva.ai) |
 | **Soundraw** | AI beats | Free trial | Producers, background music | [soundraw.io](https://soundraw.io) |
 | **Boomy** | AI music creation | Free tier | Quick songs, NFT music | [boomy.com](https://boomy.com) |
+| **Cadence** | Text-to-song (browser) | Yes (4/day guest) | Personal gifts, Keep $1.99 | [music.rynn.me](https://music.rynn.me) |
 
 ### Detailed Comparison: Suno vs Udio
 
