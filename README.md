@@ -93,6 +93,7 @@
 | **ElevenLabs** | API/web | Free tier | Voice cloning, text-to-speech | [elevenlabs.io](https://elevenlabs.io) |
 | **RVC (Retrieval-based Voice Conversion)** | Open source | Free | Voice conversion models | [github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) |
 | **Kits AI** | Web tool | Free tier | AI voice models for music | [kits.ai](https://kits.ai) |
+| **Tera Studio** | Web app | Free tier | Hearing a song sung in your own voice, learned from about 1 min of singing | [terastudio.co](https://terastudio.co) |
 
 ---
 
