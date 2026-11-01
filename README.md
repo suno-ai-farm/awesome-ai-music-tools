@@ -32,6 +32,7 @@
 | **AIVA** | AI composition | Free tier | Classical, orchestral, film scoring | [aiva.ai](https://aiva.ai) |
 | **Soundraw** | AI beats | Free trial | Producers, background music | [soundraw.io](https://soundraw.io) |
 | **Boomy** | AI music creation | Free tier | Quick songs, NFT music | [boomy.com](https://boomy.com) |
+| **LyricsGift** | Personalised song | No (paid, one-time from A$39) | Gift songs written from your own story; lyrics approved line by line | [lyricsgift.com](https://lyricsgift.com) |
 
 ### Detailed Comparison: Suno vs Udio
 
