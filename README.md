@@ -32,6 +32,7 @@
 | **AIVA** | AI composition | Free tier | Classical, orchestral, film scoring | [aiva.ai](https://aiva.ai) |
 | **Soundraw** | AI beats | Free trial | Producers, background music | [soundraw.io](https://soundraw.io) |
 | **Boomy** | AI music creation | Free tier | Quick songs, NFT music | [boomy.com](https://boomy.com) |
+| **Rhyvello (AI Rap Video Maker)** | Photo-to-rap-video | No (credit packs from $7.99) | Short AI rap videos from 1–2 photos for TikTok/Reels/Shorts | [ai-rap-video-maker.com](https://ai-rap-video-maker.com/) |
 
 ### Detailed Comparison: Suno vs Udio
 
