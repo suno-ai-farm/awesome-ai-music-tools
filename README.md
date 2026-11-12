@@ -66,6 +66,7 @@
 | Tool | Type | Free | Best For | Link |
 |------|------|-------|----------|------|
 | **Song AI Farm Song DNA Analyzer** | Web tool | Yes | Full song breakdown — genre, structure, production, AI vs human | [songaifarm.com/song-analyzer](https://www.songaifarm.com/song-analyzer?utm_source=github&utm_medium=repo&utm_campaign=awesome-ai-music-tools) |
+| **Suno Checker** | Web tool | Yes | AI vs human check, with the AI sections marked and the Suno version estimated | [sunochecker.com](https://sunochecker.com/) |
 | **Sonic Visualiser** | Desktop | Free | Detailed audio analysis, spectrograms | [sonicvisualiser.org](https://sonicvisualiser.org) |
 | **fma (Free Music Archive)** | Dataset | Free | Research, dataset analysis | [freemusicarchive.org](https://freemusicarchive.org) |
 
