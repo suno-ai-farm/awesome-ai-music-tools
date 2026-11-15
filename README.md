@@ -105,6 +105,7 @@
 | **Replicate** | API | Paid | Run MusicGen, other models | [replicate.com](https://replicate.com) |
 | **Hugging Face** | API | Free tier | Host/run open music models | [huggingface.co](https://huggingface.co) |
 | **AudioCraft (Meta)** | Open source | Free | MusicGen, AudioGen models | [github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) |
+| **No Stairs Please** | MCP / API | Free | Searching 3,400+ under-400-capacity live music venues and booking terms | [nostairsplease.com/mcp](https://nostairsplease.com/mcp) |
 
 ---
 
