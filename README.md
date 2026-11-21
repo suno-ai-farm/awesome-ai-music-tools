@@ -82,6 +82,7 @@
 | **Moises** | Mobile/web | Free tier | Mobile stem separation, practice tracks | [moises.ai](https://moises.ai) |
 | **eMastered** | Web tool | Paid | AI mastering | [emastered.com](https://emastered.com) |
 | **LANDR** | Web tool | Paid | Professional AI mastering | [landr.com](https://landr.com) |
+| **Echoteka** | Web tool | Free tier | AI mastering with cleanup of AI-generator artifacts; one free master a day | [echoteka.ai](https://echoteka.ai) |
 
 ---
 
